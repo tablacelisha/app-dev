@@ -9,14 +9,14 @@
 | Aamir Khan| 2007 | Drama, Family Relationships, Education |
 
 ### Starring:
-- Darsheel Safary as Ishaan Nandkishore Awasthi
-- Aamir Khan as Ram Shankar Nikumbh
-- Tanay Chheda as Rajan Damodran
-- Sachet Engineer as Yohaan Nandkishore Awasthi
-- Tisca Chopra as Maya Awasthi
-- Vipin Sharma as Nandkishore Awasthi
-- Girija Oak as Jabeen
-- M. K. Raina as the principal of New Era High School
+- Darsheel Safary as *Ishaan Nandkishore Awasthi*
+- Aamir Khan as *Ram Shankar Nikumbh*
+- Tanay Chheda as *Rajan Damodran*
+- Sachet Engineer as *Yohaan Nandkishore Awasthi*
+- Tisca Chopra as *Maya Awasthi*
+- Vipin Sharma as *Nandkishore Awasthi*
+- Girija Oak as *Jabeen*
+- M. K. Raina as the *principal of New Era High School*
 
 ---
 
